@@ -1,0 +1,22 @@
+  body {
+    font-family: Helvetica;
+    margin: 0 auto;
+  }
+
+  .parent {
+    display: flex;
+  }
+
+  .box-one {
+    width: 30%;
+    height: 150px;
+    background-color: lightblue;
+    padding: 50px;
+  }
+  
+  .box-two {
+     width: 70%;
+    height: 150px;
+    background-color: lightgreen;
+    padding: 50px;
+  }

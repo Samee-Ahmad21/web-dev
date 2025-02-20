@@ -1,0 +1,28 @@
+* {
+    margin: 2px;
+  }
+  
+  .parent {
+    display: flex;
+    flex-direction: row;
+  }
+  
+  .child {
+    background: darkgreen;
+    font-family: Arial;
+    width: 200px;
+    height: 100px;
+    margin: 10px;
+  }
+  
+  h2 {
+    font-size: 35px;
+  }
+  
+  h3 {
+    font-size: 20px;
+  }
+  
+  p1 {
+    font-size: 15px;
+  }

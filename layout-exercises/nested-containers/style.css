@@ -1,0 +1,22 @@
+.box-1 {
+    margin: 20px;
+    width: 100%;
+    background-color: lightblue;
+  }
+  
+  .box-2 {
+    width: 50%;
+    background-color: lightgreen;
+  }
+  
+  .box-3 {
+    width: 50%;
+    background-color: yellow;
+  }
+  
+  .box-4 {
+    width: 50%;
+    background-color: maroon;
+  }
+  
+  
